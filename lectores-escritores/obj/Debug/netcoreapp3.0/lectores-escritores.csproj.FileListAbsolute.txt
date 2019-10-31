@@ -1,0 +1,11 @@
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\bin\Debug\netcoreapp3.0\lectores-escritores.exe
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\bin\Debug\netcoreapp3.0\lectores-escritores.deps.json
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\bin\Debug\netcoreapp3.0\lectores-escritores.runtimeconfig.json
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\bin\Debug\netcoreapp3.0\lectores-escritores.runtimeconfig.dev.json
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\bin\Debug\netcoreapp3.0\lectores-escritores.dll
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\bin\Debug\netcoreapp3.0\lectores-escritores.pdb
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\obj\Debug\netcoreapp3.0\lectores-escritores.csprojAssemblyReference.cache
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\obj\Debug\netcoreapp3.0\lectores-escritores.AssemblyInfoInputs.cache
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\obj\Debug\netcoreapp3.0\lectores-escritores.AssemblyInfo.cs
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\obj\Debug\netcoreapp3.0\lectores-escritores.dll
+C:\Users\brand\source\repos\lectores-escritores\lectores-escritores\obj\Debug\netcoreapp3.0\lectores-escritores.pdb
